@@ -1,1 +1,1 @@
-# GIPHY_API
+# ddepriest.github.io
